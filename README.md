@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soufiane Chahid</h1>
 <h3 align="center">An IT enthusiast from Morocco</h3>
-- 🔭 I’m currently working on **Inception-of-Things**
-- 🌱 I’m currently learning **Jenkins, Golang, Ansible**
+- 🔭 I’m currently working on **Inception-of-Things**</br>
+- 🌱 I’m currently learning **Jenkins, Golang, Ansible**</br>
 # 📚 School Stats:
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/schahid" alt="schahid's 42 stats" /></a>
 # 💻 Tech Stack:
