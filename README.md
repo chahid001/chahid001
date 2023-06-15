@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soufiane Chahid</h1>
 <h3 align="center">An IT enthusiast from Morocco</h3>
 
-[![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/schahid" alt="schahid's 42 stats" /></a>
 
 - 🔭 I’m currently working on **Inception-of-Things**
