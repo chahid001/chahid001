@@ -4,20 +4,6 @@
 - 🌱 I’m currently learning **Jenkins, Golang, Ansible**</br>
 # 📚 School Stats:
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/schahid" alt="schahid's 42 stats" />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chahid001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chahid001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahid001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chahid001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 <!--
 **chahid001/chahid001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
