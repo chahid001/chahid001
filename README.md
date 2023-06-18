@@ -2,7 +2,7 @@
 <h3 align="center">An IT enthusiast from Morocco</h3>
 
 
-- 🔭 I’m currently working on **Inception-of-Things**</br>
+- 🔭 I’m currently working on **Inception-of-Things** **and** **cloud-1**</br>
 - 🌱 I’m currently learning **Jenkins, Golang, Ansible**</br>
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
