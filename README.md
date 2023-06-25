@@ -2,8 +2,8 @@
 <h3 align="center">An IT enthusiast from Morocco</h3>
 
 
-- 🔭 I’m currently working on **cloud-1** and the bonus part of **Inception-of-Things** </br>
-- 🌱 I’m currently learning **Jenkins, Golang, Ansible, Terraform**</br>
+- 🔭 I’m currently working on the bonus part of **Inception-of-Things** </br>
+- 🌱 I’m currently learning **Jenkins, Golang, Terraform**</br>
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
 # 💻 Tech Stack:
