@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [BADASS](https://github.com/chahid001/Bgp-At-Doors-of-Autonomous-Systems-is-Simple)</br>
-- 🌱 I’m currently learning **Assembly, Rust, Terraform**</br>
+- 🌱 I’m currently learning **Java, Assembly, Rust, Terraform**</br>
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
 # 💻 Tech Stack:
