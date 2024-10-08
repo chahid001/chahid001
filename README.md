@@ -6,21 +6,20 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
 
 # 🚀 Latest Project
 ## [Cloud1](https://github.com/chahid001/42-Cloud1)
 
-    </td>
-    <td>
+  </td>
+  <td width="50%">
 
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
 
-    </td>
+  </td>
   </tr>
 </table>
-
 
 # 💻 Tech Stack:
 
