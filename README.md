@@ -4,8 +4,23 @@
 - 🔭 I’m currently working on [42 CyberSecurity pool](https://github.com/chahid001/42-Cybersecurity-pool)</br>
 - 🌱 I’m currently learning **Java, Assembly, Rust, Terraform**</br>
 
+<table>
+  <tr>
+    <td>
+
+# 🚀 Latest Project
+## [Cloud1](https://github.com/chahid001/42-Cloud1)
+
+    </td>
+    <td>
+
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
+
+    </td>
+  </tr>
+</table>
+
 
 # 💻 Tech Stack:
 
