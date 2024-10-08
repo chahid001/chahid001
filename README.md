@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="30%">
 
 # 🚀 Latest Project
 ## [Cloud1](https://github.com/chahid001/42-Cloud1)
