@@ -6,13 +6,13 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="70%">
 
 # 🚀 Latest Project
 ## [Cloud1](https://github.com/chahid001/42-Cloud1)
 
   </td>
-  <td width="50%">
+  <td width="70%">
 
 # 📚 School Stats:
 [![schahid's 42 stats](https://badge.mediaplus.ma/darkblue/schahid)](https://github.com/oakoudad/badge42)
