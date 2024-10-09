@@ -10,6 +10,7 @@
 
 # 🚀 Latest Project
 ## [Cloud1](https://github.com/chahid001/42-Cloud1)
+## [DefectDojo CLI](https://github.com/chahid001/DefectDojo-CLI)
 
   </td>
   <td width="70%">
