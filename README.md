@@ -6,7 +6,7 @@
     <td width="30%">
 
 # 🚀 Latest Project
-## [ 🥇 DevOps360](https://github.com/chahid001/DevOps360)
+## [ 🌴 DevOps360](https://github.com/chahid001/DevOps360)
 ## [ 🌃 The Architect's Grid](https://github.com/chahid001/The-Architects-Grid/tree/main)
 ## [ ☁️ Cloud1](https://github.com/chahid001/42-Cloud1)
 ## [✨ Inception of Things](https://github.com/chahid001/42Inception-of-Things)
