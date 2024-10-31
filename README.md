@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=chahid001&color=brightgreen" alt="watching_count" />
 <h1 align="center">Hi there 👋, I'm Soufiane Chahid</h1>
 <h3 align="center">💻 DevOps & Platfrom engineer 👨‍🎓 Student at 42 School 🚀 Always coding, sometimes breaking things! 🌍 Here to share my tech journey and have some fun along the way!</h3>
 
