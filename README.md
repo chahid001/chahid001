@@ -25,6 +25,12 @@
   </tr>
 </table>
 
+# 📜 Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea611e86-839d-4d67-85fc-367c5e37524a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)](YOUR_BADGE_LINK)
+
+I am a **Certified Kubernetes Administrator (CKA)**, demonstrating my expertise in managing and administering Kubernetes clusters. Click the badge to verify my certification.
+
 # 💻 Tech Stack:
 
 <table>
