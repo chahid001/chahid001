@@ -25,13 +25,6 @@
   </tr>
 </table>
 
-## 📜 Certifications
-
-[![Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8d8507f7-5d94-4e1c-88a3-2cda48fa91f8/certified-kubernetes-administrator-cka.png)](https://www.credly.com/badges/ea611e86-839d-4d67-85fc-367c5e37524a)
-
-I am a **Certified Kubernetes Administrator (CKA)**. Click the badge to verify my certification.
-
-
 # 💻 Tech Stack:
 
 <table>
