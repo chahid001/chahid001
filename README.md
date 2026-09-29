@@ -9,6 +9,7 @@
     <td width="30%">
 
 # 🚀 Latest Project
+## [ ⚙️ RBATI CNI](https://github.com/chahid001/rbati-cni)
 ## [ 🌴 DevOps360](https://github.com/chahid001/DevOps360)
 ## [ 🌃 The Architect's Grid](https://github.com/chahid001/The-Architects-Grid/tree/main)
 ## [ ☁️ Cloud1](https://github.com/chahid001/42-Cloud1)
